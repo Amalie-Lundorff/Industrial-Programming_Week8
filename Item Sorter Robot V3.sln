@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item Sorter Robot V3", "Item Sorter Robot V3\Item Sorter Robot V3.csproj", "{52F77D23-3E67-467E-833B-0A900BEDA16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F77D23-3E67-467E-833B-0A900BEDA16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F77D23-3E67-467E-833B-0A900BEDA16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F77D23-3E67-467E-833B-0A900BEDA16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F77D23-3E67-467E-833B-0A900BEDA16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
